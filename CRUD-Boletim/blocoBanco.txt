@@ -1,0 +1,27 @@
+use Calculadora_media
+
+CREATE TABLE [Aluno] ( 
+	[idAluno] [int] PRIMARY KEY NOT NULL IDENTITY,
+	[RA] [varchar] (7) NOT NULL UNIQUE,
+	[nomeAluno] [varchar] (100) NOT NULL)
+
+CREATE TABLE [Disciplina] (
+	[idDisciplina] [int] PRIMARY KEY NOT NULL IDENTITY,
+	[nomeDisciplina] [varchar] (100) NOT NULL)
+
+CREATE TABLE [AlunoDisciplina] (
+	[id] [int] PRIMARY KEY NOT NULL IDENTITY,
+	[idAluno] [int] NOT NULL,
+	[idDisciplina] [int] NOT NULL,
+	[notaP1] [real],
+	[notaP2] [real],
+	[media] [real],
+	[situacao] [varchar] (30) NOT NULL,
+	FOREIGN KEY (idAluno) REFERENCES Aluno(idAluno),
+	FOREIGN KEY (idDisciplina) REFERENCES Disciplina(idDisciplina)
+	)
+INSERT INTO Disciplina(nomeDisciplina) values 
+('Português'),
+('Ciência'),
+('Informatica')
+					

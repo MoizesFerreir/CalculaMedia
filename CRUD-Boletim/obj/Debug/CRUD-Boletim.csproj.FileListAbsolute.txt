@@ -1,0 +1,234 @@
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe.config
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\CRUD-Boletim.pdb
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.AssemblyReference.cache
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD_Boletim.Form1.resources
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD_Boletim.Properties.Resources.resources
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.GenerateResource.cache
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CoreCompileInputs.cache
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.exe
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.pdb
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Azure.Core.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Azure.Identity.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Buffers.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Memory.Data.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Memory.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.AccessControl.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Permissions.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Text.Json.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.ValueTuple.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Azure.Core.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Azure.Identity.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Buffers.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Memory.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Memory.Data.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.AccessControl.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Permissions.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Text.Json.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\System.ValueTuple.xml
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Github\ProjetoPOO\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CopyComplete
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe.config
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\CRUD-Boletim.pdb
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Azure.Core.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Azure.Identity.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Buffers.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Memory.Data.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Memory.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Permissions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Text.Json.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.ValueTuple.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Azure.Core.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Azure.Identity.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Buffers.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Memory.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Memory.Data.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Permissions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Text.Json.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\System.ValueTuple.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.AssemblyReference.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD_Boletim.Form1.resources
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD_Boletim.Properties.Resources.resources
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.GenerateResource.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CoreCompileInputs.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CopyComplete
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.exe
+C:\Users\MOIZES\OneDrive\Área de Trabalho\crud\CRUD-Boletim\CRUD-Boletim\obj\Debug\CRUD-Boletim.pdb
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe.config
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\CRUD-Boletim.exe
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\CRUD-Boletim.pdb
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Azure.Core.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Azure.Identity.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Buffers.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Memory.Data.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Memory.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Permissions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Text.Json.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.ValueTuple.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Azure.Core.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Azure.Identity.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Buffers.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Memory.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Memory.Data.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Permissions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Text.Json.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\System.ValueTuple.xml
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.AssemblyReference.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD_Boletim.Form1.resources
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD_Boletim.Properties.Resources.resources
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.GenerateResource.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CoreCompileInputs.cache
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.csproj.CopyComplete
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.exe
+C:\Users\MOIZES\OneDrive\Área de Trabalho\Id_Disciplina\CRUD-Boletim\obj\Debug\CRUD-Boletim.pdb
